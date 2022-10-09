@@ -2,7 +2,7 @@
 
 <!-- Top section -->
 <p align="center">
-  <img src="../assets/logo.png" height="175px">
+  <img src="./assets/logo.png" height="175px">
   <br>
   <h1 align="center" >Centauri Hackathon</h1>
   <h3 align="center" >An awesome hackathon coming soon!</h3>
@@ -23,7 +23,7 @@
 You can create an issue or pull request on the repository if you have any issues with a rule or find any (stupid) mistakes.
 
 <!-- Footer  -->
-<p align="center" ><img src="../assets/seperator.png" height="75px"></p>
+<p align="center" ><img src="./assets/seperator.png" height="75px"></p>
 
 <p align="center">
   <span>
