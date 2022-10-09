@@ -38,4 +38,6 @@ You can create an issue or pull request on the repository if you have any issues
   <span>👮 MIT License</span>
   •
   <span><a href="#-table-of-contents">Jump to Top</a></span>
+  <br>
+  <span>Like the look of this README.md? Check out <a href="https://github.com/readmeify/docs">Readmeify</a></span>
 </p>
